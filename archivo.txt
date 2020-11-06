@@ -1,3 +1,5 @@
-Hola este es un ejemplo de git y como se usa
+Hola este es un ejemplo de git y como se usa.
 
-Aunque no se muy bien que poner igual me puede servir para algo
+Aunque no se muy bien que poner igual me puede servir para algo.
+
+Y aquí Fredi habla de lo suyo
